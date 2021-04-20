@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">FinTech_Lab1</string>
+    <string name="app_name">Hello, this is Lab1</string>
+    <string name="btn_do_smth">Click me</string>
 </resources>
