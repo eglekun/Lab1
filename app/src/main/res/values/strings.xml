@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FinTech_Lab1</string>
+    <string name="app_name">Hello, this is Lab1</string>
     <string name="btn_do_smth">Click me</string>
     <string name="changed_label_caption">Text was changed :)</string>
     <string name="btn_change_color">Change text color</string>
