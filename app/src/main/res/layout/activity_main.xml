@@ -28,7 +28,7 @@
         android:onClick="OnBtnClick"/>
 
     <Button
-        android:id="@+id/btnChangeColor"
+        android:id="@+id/btn_change_color"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_change_color"
